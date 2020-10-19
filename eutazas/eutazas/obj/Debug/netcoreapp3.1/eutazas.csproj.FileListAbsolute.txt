@@ -1,0 +1,14 @@
+C:\Users\bardo\source\repos\infoerettsegi\eutazas\eutazas\eutazas\bin\Debug\netcoreapp3.1\eutazas.exe
+C:\Users\bardo\source\repos\infoerettsegi\eutazas\eutazas\eutazas\bin\Debug\netcoreapp3.1\eutazas.deps.json
+C:\Users\bardo\source\repos\infoerettsegi\eutazas\eutazas\eutazas\bin\Debug\netcoreapp3.1\eutazas.runtimeconfig.json
+C:\Users\bardo\source\repos\infoerettsegi\eutazas\eutazas\eutazas\bin\Debug\netcoreapp3.1\eutazas.runtimeconfig.dev.json
+C:\Users\bardo\source\repos\infoerettsegi\eutazas\eutazas\eutazas\bin\Debug\netcoreapp3.1\eutazas.dll
+C:\Users\bardo\source\repos\infoerettsegi\eutazas\eutazas\eutazas\bin\Debug\netcoreapp3.1\eutazas.pdb
+C:\Users\bardo\source\repos\infoerettsegi\eutazas\eutazas\eutazas\obj\Debug\netcoreapp3.1\eutazas.csprojAssemblyReference.cache
+C:\Users\bardo\source\repos\infoerettsegi\eutazas\eutazas\eutazas\obj\Debug\netcoreapp3.1\eutazas.AssemblyInfoInputs.cache
+C:\Users\bardo\source\repos\infoerettsegi\eutazas\eutazas\eutazas\obj\Debug\netcoreapp3.1\eutazas.AssemblyInfo.cs
+C:\Users\bardo\source\repos\infoerettsegi\eutazas\eutazas\eutazas\obj\Debug\netcoreapp3.1\eutazas.csproj.CoreCompileInputs.cache
+C:\Users\bardo\source\repos\infoerettsegi\eutazas\eutazas\eutazas\obj\Debug\netcoreapp3.1\eutazas.dll
+C:\Users\bardo\source\repos\infoerettsegi\eutazas\eutazas\eutazas\obj\Debug\netcoreapp3.1\eutazas.pdb
+C:\Users\bardo\source\repos\infoerettsegi\eutazas\eutazas\eutazas\obj\Debug\netcoreapp3.1\eutazas.genruntimeconfig.cache
+C:\Users\bardo\source\repos\infoerettsegi\eutazas\eutazas\eutazas\bin\Debug\netcoreapp3.1\utasadat.txt
