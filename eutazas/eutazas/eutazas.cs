@@ -53,7 +53,7 @@ namespace eutazas
 			using (StreamReader sr = File.OpenText("utasadat.txt"))
 			{
 				string temp;
-				while ((temp = sr.ReadLine()) != null)
+				while ((temp = sr.ReadLine()) != null) //itt a temp = sr... visszaad értéket, mint assignment expression, elég hasznos
 				{
 					AdatLista.Add(temp.Split(" "));
 				}
